@@ -8,7 +8,7 @@ Inspired by the structure of classic beginner ML projects like Titanic Survival 
 
 ## Live Demo
 
-> Deploy to Streamlit Community Cloud (free) — see deployment instructions below.
+https://diabetes-prediction-app-xvzqlfnj6dxxantdrk9gfv.streamlit.app/
 
 ---
 ## Screenshots
